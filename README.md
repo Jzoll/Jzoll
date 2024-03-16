@@ -1,4 +1,6 @@
-### Hi there 👋
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jzoll131879/30-nites-of-code)  
+  ![@jzoll131879 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jzoll131879)
 
 <!--
 **Jzoll/Jzoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
